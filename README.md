@@ -1,5 +1,5 @@
 # StaminkaDrop
-
+[Watch Video](https://drive.google.com/uc?export=download&id=1mwW28_6mvjGzkBV7Ld1cZUil88g0f2K3)
 **Note:** Early version tested only on 1920x1080 resolution.
 
 ### Installation
