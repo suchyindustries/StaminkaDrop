@@ -7,7 +7,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/StaminkaDrop.git
+   git clone https://github.com/suchyindustries/StaminkaDrop.git
    cd StaminkaDrop
    ```
 
