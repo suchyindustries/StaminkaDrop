@@ -1,0 +1,6 @@
+PyQt5
+keyboard
+pyautogui
+opencv-python
+numpy
+rich
